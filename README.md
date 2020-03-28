@@ -1,3 +1,5 @@
+![picture](https://raw.githubusercontent.com/fsonego/DynamicCSharp/master/assets/dynamic%20C%23_.jpg) 
+
 # Dale dinamismo a tu código C#
 Vimos una visión general de las características dinámicas en C#.
 

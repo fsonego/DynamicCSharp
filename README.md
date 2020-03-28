@@ -1,4 +1,4 @@
-![picture](https://raw.githubusercontent.com/fsonego/DynamicCSharp/master/assets/dynamic%20C%23_.jpg) 
+![picture](https://raw.githubusercontent.com/fsonego/DynamicCSharp/master/assets/flyer_dynamic) 
 
 # Dale dinamismo a tu código C#
 Vimos una visión general de las características dinámicas en C#.

@@ -1,4 +1,4 @@
-![picture](assets/dynamic C#_.jpg) 
+![picture](assets/dynamic%20C#_.jpg) 
 
 # Dale dinamismo a tu código C#
 Vimos una visión general de las características dinámicas en C#.
